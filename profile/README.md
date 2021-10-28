@@ -1,5 +1,5 @@
 <p align="center">
-    ### [tenacity.dev](https://tenacity.dev)
+    <a href="https://tenacity.dev">tenacity.dev</a><br>
     The best multi-server client with beautiful visuals and amazing bypasses at an affordable price.
 </p>
 
